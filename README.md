@@ -37,4 +37,4 @@ This is a command-line application that at a minimum allows the user to:
   * Update employee roles
 
 
-![Screenshot](Assets/Unit 12 - 1.png)
+![screenshot](https://github.com/dmehrmann76/employee-tracker/blob/main/Assets/Unit%2012%20-%201.png)
