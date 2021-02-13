@@ -35,3 +35,6 @@ This is a command-line application that at a minimum allows the user to:
   * View departments, roles, employees
 
   * Update employee roles
+
+
+![Screenshot](Assets/Unit 12 - 1.png)
