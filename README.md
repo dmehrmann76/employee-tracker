@@ -38,3 +38,7 @@ This is a command-line application that at a minimum allows the user to:
 
 
 ![screenshot](https://github.com/dmehrmann76/employee-tracker/blob/main/Assets/Unit%2012%20-%201.png)
+
+![screenshot](https://github.com/dmehrmann76/employee-tracker/blob/main/Assets/Unit%2012%20-%202.png)
+
+![screenshot](https://github.com/dmehrmann76/employee-tracker/blob/main/Assets/Unit%2012%20-%203.png)
